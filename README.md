@@ -7,3 +7,15 @@
 </div>
 
 
+
+
+### Step 1: Fork the Official Repository
+Secure your own copy of the most powerful source code.
+
+<div align="center">
+  <a href="https://github.com/Princeton2003/PRINCE--XMD/fork">
+    <img src="https://img.shields.io/badge/🔗 FORK REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" alt="Fork"/>
+  </a>
+</div>
+
+<br>
